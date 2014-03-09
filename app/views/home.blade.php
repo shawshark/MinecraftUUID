@@ -14,7 +14,9 @@
 
     A simpler API than Mojang's.<br/>
     Usage: <code>https://uuid.swordpvp.com/uuid/CraftThatB</code><br/>
-    Output: <code>{"profiles":[{"id":"511ec68267ac4750abb80afb170d21d5","name":"CraftThatB"}],"size":1}</code>
+    Output: <code>{"profiles":[{"id":"511ec68267ac4750abb80afb170d21d5","name":"CraftThatB"}],"size":1}</code><br/>
+    <br/>
+    <a class="btn btn-success btn-lg" href="https://github.com/SwordPVP/MinecraftUUID">Github (Usage Examples)</a>
 </div>
 </body>
 </html>
