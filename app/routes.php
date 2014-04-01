@@ -5,3 +5,4 @@ Route::get('/', function () {
 });
 
 Route::get('uuid/{username}', 'UUIDController@uuid');
+Route::get('session/{uuid}', 'UUIDController@session');
