@@ -4,7 +4,7 @@ Super small website for getting Minecraft username UUID's and back.
 
 Examples:
 
-### Reverse lookup (Name -> UUID)
+### Normal lookup (Name -> UUID)
 
 ### Java
 ```java
